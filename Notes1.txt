@@ -8,4 +8,8 @@ git branch -M main ->>> Creating a new branch called main
 git remote add origin YOURPROJECTLINK ->>> Connects Local Project(git) to Remote repository(github)
 git push -u origin main
 
-SECOND PUSH(yukardaki nottur)
+
+SECOND CODE PUSH:
+git add .
+git commit -m "updating the code"
+git push
