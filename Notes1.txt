@@ -1,0 +1,11 @@
+This is my first GitHub Class
+
+GITHUB DAY 1:
+git init  ->>>> Create a .git folder in our computer
+git add .  ->>>
+git commit -m "first commit" ->>> Create a new version
+git branch -M main ->>> Creating a new branch called main
+git remote add origin YOURPROJECTLINK ->>> Connects Local Project(git) to Remote repository(github)
+git push -u origin main
+
+SECOND PUSH(yukardaki nottur)
