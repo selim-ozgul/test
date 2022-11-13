@@ -46,3 +46,4 @@ When we merge these codes then we get conflict message
 SOLUTION:
 Manually fix and create a new commit and push the clean code
 ===========
+bu NEW REMOTE CODE
