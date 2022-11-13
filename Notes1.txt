@@ -46,4 +46,11 @@ When we merge these codes then we get conflict message
 SOLUTION:
 Manually fix and create a new commit and push the clean code
 ===========
+<<<<<<< HEAD
 bu NEW LOCAL CODE
+=======
+
+=======
+bu NEW REMOTE CODE
+
+>>>>>>> refs/remotes/origin/selim_sprint10_lion
